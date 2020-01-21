@@ -1,0 +1,151 @@
+<html>
+
+<head>
+	<title>Web Hosting Review</title>
+</head>
+
+<body>
+	<h1>Michaela's web hosting review</h1>
+	<p>The three wed hosting websites I will be looking at are; Bluehost, HostGator, and network solutions. </p>
+	<h2><a href="http://bluehost.com" target="_new">Bluehost</a></h2>
+		<ul>
+			<h3>Plans:</h3>
+				<ol>
+					<li><u>Shared</u></li>
+						<ul>
+							<li>Costs $2.95/monthly</li>	
+							<li>Great for a new website or blog</li>
+							<li>Easy-to-use customer dashboard</li>
+							<li>Fully managed solution</li>
+						</ul>
+					<li><u>VPS</u></li>
+						<ul>
+							<li>Costs $18.99/monthly</li>	
+							<li>Great for moderate to high traffic</li>
+							<li>Scalable with on-demand resources</li>
+							<li>Full root access for additional control</li>
+						</ul>
+					<li><u>Dedicated</u></li>
+						<ul>
+							<li>Costs $79.99/monthly</li>	
+							<li>Great for websites with high traffic</li>
+							<li>For resource-intensive needs</li>
+							<li>Ultimate security and performance</li>
+						</ul>
+				</ol>
+			<h3>Guaranteed with any membership:</h3>
+				<ol>
+					<ul>
+						<li>WordPress Made Easy</li>
+						<li>24/7 Support</li>
+						<li>Money-back Guarantee</li>
+						<li>Built for Success</li>
+					</ul>
+				</ol>
+		</ul>
+	<h2><a href="http://hostgator.com" target="_new">HostGator</a></h2>
+		<ul>
+			<h3>Plans:</h3>
+				<ol>
+					<li><u>Hatchling Plan</u></li>
+						<ul>
+							<li>Costs $2.75/monthly</li>	
+							<li>Single Domain</li>
+							<li>Unmetered Bandwidth</li>
+							<li>Free SSL Certificate</li>
+							<li>Free WordPress</li>
+							<li>Professional Email Address</li>
+						</ul>
+					<li><u>Baby Plan</u></li>
+						<ul>
+							<li>Costs $3.93/monthly</li>	
+							<li>Unlimited Domains</li>
+							<li>Unmetered Bandwidth</li>
+							<li>Free SSL Certificate</li>
+							<li>Free WordPress</li>								
+							<li>Professional Email Address</li>
+						</ul>
+					<li><u>Business Plan</u></li>
+						<ul>
+							<li>Costs $5.91/monthly</li>
+							<li>Unlimited Domains</li>
+							<li>Free Upgrade to Positive SSl</li>
+							<li>Free SEO Tools</li>
+							<li>Free Dedicated IP</li>
+							<li>Unmetered Bandwidth</li>
+							<li>Free SSL Certificate</li>
+							<li>Free WordPress</li>
+							<li>Professional Email Address</li>
+						</ul>
+				</ol>
+			<h3>Guarantee with any membership:</h3>
+				<ol>
+					<ul>
+						<li>99.9% Uptime</li>
+						<li>24/7 Support</li>
+						<li>45-Day Money-back Guarantee</li>
+					</ul>
+				</ol>
+		</ul>
+	<h2><a href="http://networksolutions.com" target="_new">Network Solutions</a></h2>
+		<ul>
+			<h3>Plans:</h3>
+						<ol>
+							<li><u>Starter</u></li>
+								<ul>
+									<li>Costs $5.96/monthly for 1 year</li>	
+									<li>1 Website</li>
+									<li>5 Email Boxes</li>
+								</ul>
+							<li><u>Essential</u></li>
+								<ul>
+									<li>Costs $9.96/monthly for 1 year</li>
+									<li>3 Websites</li>
+									<li>1000 Email Boxes</li>
+									<li>Domain Name Included</li>
+									<li>SiteLock</li>
+								</ul>
+							<li><u>Professional</u></li>
+								<ul>
+									<li>Costs $15.78/monthly</li>
+									<li>Unlimited Disk Space</li>
+									<li>10 Websites</li>
+									<li>Unlimited Email Boxes</li>
+									<li>Domain Name Included</li>
+									<li>SiteLock Premium</li>
+								</ul>
+							<li><u>Professional Plus</u></li>
+								<ul>
+									<li>Costs $21.62/monthly</li>
+									<li>Unlimited Disk Space</li>
+									<li>10 Websites</li>
+									<li>Unlimited Email Boxes</li>
+									<li>SiteLock Premium</li>
+									<li>SSL Certificate</li>
+								</ul>
+						</ol>
+			<h3>Guaranteed with any membership:</h3>
+				<ol>
+					<ul>
+						<li>Nothing guaranteed</li>
+					</ul>
+				</ol>
+	<h2><u>Ranking</u></h2>
+		<ol> 
+			<li>HostGator</li>
+				<ul>
+					<li>HostGator is ranked number 1 because has the cheapest plans, with each plans offering a lot.</li>
+				</ul>
+			<li>Bluehost</li>
+				<ul>
+					<li>Bluehost was ranked 2 out of three because costs for the higher plans where expensive but had important guarantees.</li> 
+				</ul>
+			<li>Network Solutions</li>
+				<ul>
+					<li>Network solutions where ranked number 3 because the cost for the plans with what they offered where less then Bluehost and Hostgator. Also there was no guarantees with any membership. </li>
+				</ul>
+		</ol>
+	<img src="cat.jpg" width="25%">
+</body>
+		
+</html>
