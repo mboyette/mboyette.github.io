@@ -1,0 +1,88 @@
+html, body{
+	Margin:0;
+	Padding:0;
+	background-color: white;
+	font-family: arial;
+	font:  purple;
+}
+
+Body{
+}
+
+#wap{
+	width: 70%;
+	margin: 0 auto ;
+	background-color: white;
+}
+
+header{
+	background: linear-gradient(to top left, #660066 15%, #ffcc00 96%);
+	text-align: center;
+}
+header h1{
+	color: white;
+	font-size: 70px;
+	padding: 0;
+	margin: 0;
+}
+
+nav{
+	background-color: #660066;
+	text-align: center;
+	padding: 10px 0;
+	font-family: verdana;
+}
+
+nav a { 
+	color: white;
+	padding: 10px 30px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ffcc00;
+	background-color: white;
+}
+
+nav li{
+	display: inline;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+section{
+	background-color: white;
+	padding: 10%;
+}
+Section h1{
+	color: #ffcc00;
+	font-size: 160%;
+	border: 1px soild black;
+}
+h2{
+	color:#ffcc00;
+}
+.tide{
+	width: 30%;
+	float: right;
+}
+
+footer{
+	background-color: #660066;
+	color: white;
+}
+.botton{
+	background-color: purple;
+	Color: white;
+	text-decoration:none;
+	margin: 15px 0;
+	padding: 10 px;
+	display: inline-block;
+	border-radius: 8px;
+}
+a.botton:hover {
+	color: #ffcc00;
+}
