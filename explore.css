@@ -43,28 +43,25 @@ nav a:hover {
 section {
 	background-color:rgba(0,0,0,0.3);
 }
-figure figcaption{
-	width: 15px, 15px, 15px, 25px;
-	border: 1px solid white;
-	margin: 10px;
-	text-align: center;
-	padding: 10px, 10px, 25px, 10px;
-	background-color: solid black;
-	color: white;
-	float: ;
-	font-size: 90%;
-}
 
 figure {
-	float: left;
-	width:;
+	float: left, top;
+	width:; 
+	margin-right: 0.5em; 
+	margin-bottom: 0.5em;
+	background-color: black;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	padding-right:5px;
+	padding-left: 5px;
     display: inline-block;
-    border: white ;
-    margin: 0.25em; 
-	padding: 0.25em;
-	background-color: solid black;
 	text-align: center;
+	border: 1px solid white;
+	color: white;
+	font-size: 90%;
+	font: bold;
 }
+
 
 figure img {
     vertical-align: top;
