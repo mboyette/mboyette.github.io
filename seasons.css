@@ -1,0 +1,144 @@
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+html, body{
+	Margin:;
+	Padding:
+}
+
+Body{
+}
+	#seasons body{
+	}
+	#summer body{
+	}
+	#fall body{
+	}
+	#winter body{
+	}
+	#spring body{
+	}
+
+header{
+	text-align: center;
+	font-family: Pacifico;
+	font-size: 24pt;
+	color: white;
+}
+	#seasons heder{
+		background-color: black;
+		text-align: center;
+	}
+	#summer heder{
+		background-color: #F50049;
+		text-align: center;
+	}
+	#fall header{
+		background-color: #FF4000;
+		text-align: center;
+	}
+	#winter header{
+		background-color: #0489B1;
+		text-align: center;
+	}
+	#spring header{
+		background-color: #2EFE2E;
+		text-align: center;
+	}
+nav {
+	background-color: black;
+	text-align: center;
+	padding: 10px 0;
+	font-family: verdana;
+}
+	#summer nav{ 
+		background-color: #f50049;
+	}
+	#fall nav{
+		background-color: #FF4000;
+	}
+	#winter nav{
+		background-color: #0489B1;
+	}
+	#spring nav{
+		background-color: #2EFE2E;
+	}
+
+nav a { 
+		color: white;
+		padding: 10px 30px;
+		text-decoration: none;
+}
+
+nav a:hover {
+		color: black;
+		background-color: white;
+	}
+	#summer nav a:hover  {
+		color: #FFFF00;
+		background-color: white;
+	}
+	#fall nav a:hover {
+		color: #FAAC58;
+		background-color: white;
+	}
+	#winter nav a:hover {
+		color: #58FAD0;
+		background-color: white;
+	}
+	#spring nav a:hover {
+		color: #21610B;
+		background-color: white;
+	}
+
+	nav li{
+		display: inline;
+	}
+
+	nav ul{
+		margin: 0;
+		padding: 0;
+	}
+
+section {
+	background-color: white;
+	padding: 0 ;
+	margin: 20px 220px 60px;
+	overflow: auto;
+	text-align: center;
+}
+	#summer section {
+		background-color: white;
+		padding: 0 ;
+		margin: 20px 220px 60px;
+		overflow: auto;
+		text-align: center;
+	}
+	#fall section {
+		background-color: white;
+		padding: 0 ;
+		margin: 20px 220px 60px;
+		overflow: auto;
+		text-align: center;
+	}
+	#winter section {
+		background-color: white;
+		padding: 0 ;
+		margin: 20px 220px 60px;
+		overflow: auto;
+		text-align: center;
+	}
+	#spring section {
+		background-color: white;
+		padding: 0 ;
+		margin: 20px 220px 60px;
+		overflow: auto;
+		text-align: center;
+	}
+.season {
+	padding: 10px 15px;
+	margin: 20px 0;
+	overflow: auto;
+}
+
+footer{
+	color: white;
+}
