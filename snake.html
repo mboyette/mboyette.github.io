@@ -3,7 +3,12 @@
 <head>
     <title>Dunder Mifflin</title>
 		<link href="office.css" rel="stylesheet" type="text/css">
- 
+	<style>  body {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }</style>
 
 </head>
 <body>
@@ -98,11 +103,11 @@ function loop() {
   }
 
   // draw apple
-  context.fillStyle = 'black';
+  context.fillStyle = 'red';
   context.fillRect(apple.x, apple.y, grid-1, grid-1);
 
   // draw snake one cell at a time
-  context.fillStyle = '#17B9E6';
+  context.fillStyle = 'green';
   snake.cells.forEach(function(cell, index) {
     
     // drawing 1 px smaller than the grid creates a grid effect in the snake body so you can see how long it is
